@@ -2,7 +2,7 @@ remote_theme: pmarsceill/just-the-docs
 search_enabled: true
 aux_links:
     "KICP Space Explorers on GitHub":
-      - "https://github.com/kicp-space-explorers"
+      - "https://github.com/kicp-space-explorers/kicp-space-explorers"
 title: KICP Space Explorers
 description: Website for KICP Space Explorers
 logo: https://d3qi0qp55mx5f5.cloudfront.net/shared-resources/i/template/uc_wordmark_hires.gif
