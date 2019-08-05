@@ -8,7 +8,7 @@ navigation_weight: 5
 # Schedule
 {: .no_toc }
 
-The schedule can be accessed [here](https://docs.google.com/spreadsheets/d/1rMQp3eBfKTt_1uQ1IZzVBcWD0h924G6ucDwyb-QTQQo/edit?usp=sharing).
+The schedule can be accessed [here](https://docs.google.com/spreadsheets/d/1xbKjUXYGnj-6fdv1j0kZKjGt7yC2eCH4Kl4t-GAk1Uk/edit?usp=sharing).
 
 Click [here to go back to the main page](../).
 
