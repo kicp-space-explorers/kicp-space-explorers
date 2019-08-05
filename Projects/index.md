@@ -34,4 +34,6 @@ The datasets can be accessed [here](https://drive.google.com/drive/u/0/folders/1
 
 # AI in the Sky
 
+The guide can be accessed [here](https://docs.google.com/document/d/1mdWXmLDeEDXehhnsLBhMR5k9b7lW5JU9cBRz6cQGX9o/edit#).
+
 # Frank, the Self-Driving Car
