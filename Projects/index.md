@@ -21,3 +21,17 @@ Click [here to go back to the main page](../).
 {:toc}
 
 ---
+
+# Power Glove
+
+The guide can be accessed [here](https://docs.google.com/document/d/1e3935XdIaGvaqHDjdBL_zUokrGmbbcEgFN9hKz93f9g/edit?usp=sharing).
+
+# AI Meets Ethics
+
+The guide can be acessed [here](https://docs.google.com/document/d/1QDifzOxx85tMdknhMqtc6otp-rYanhkQWsuUZeE5n3E/edit?usp=sharing).
+
+The datasets can be accessed [here](https://drive.google.com/drive/u/0/folders/1bw7l2kGd05PwmVszv_619xBDQ27vt507).
+
+# AI in the Sky
+
+# Frank, the Self-Driving Car

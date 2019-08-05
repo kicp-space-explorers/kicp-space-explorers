@@ -24,12 +24,9 @@ Please see [the Schedule](./Schedule/index.md).
 
 ---
 
-# Data sets
+The data tutorial Jupyter notebook can be accessed [here](https://colab.research.google.com/drive/1VF5TSR_l1g4FFP1IN32L6fmt1QDEieUM).
 
-Go [here](https://drive.google.com/drive/u/0/folders/1bw7l2kGd05PwmVszv_619xBDQ27vt507)
-
-Jupyer notebook: go [here](https://colab.research.google.com/drive/1VF5TSR_l1g4FFP1IN32L6fmt1QDEieUM)
+Please go to [this Google Drive folder](https://drive.google.com/drive/folders/1_Lsed7CVe53qv8opiHIdpJsKfLHoPHBn?usp=sharing) for your materials.
 
 * [Projects](./Projects/index.md): 
    * projects will go here
-
