@@ -28,7 +28,9 @@ The guide can be accessed [here](https://docs.google.com/document/d/1e3935XdIaGv
 
 # AI Meets Ethics
 
-The guide can be acessed [here](https://docs.google.com/document/d/1QDifzOxx85tMdknhMqtc6otp-rYanhkQWsuUZeE5n3E/edit?usp=sharing).
+The guide can be accessed [here](https://docs.google.com/document/d/1QDifzOxx85tMdknhMqtc6otp-rYanhkQWsuUZeE5n3E/edit?usp=sharing).
+
+The Friday MUN guide can be accessed [here](https://docs.google.com/document/d/1K-MbUrlZNDBwMaN4NMY_Ot2d8UlolULualzLgG6AWiM/edit).
 
 The datasets can be accessed [here](https://drive.google.com/drive/u/0/folders/1bw7l2kGd05PwmVszv_619xBDQ27vt507).
 
