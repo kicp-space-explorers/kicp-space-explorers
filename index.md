@@ -16,4 +16,6 @@ The data tutorial Jupyter notebook can be accessed [here](https://colab.research
 
 Please go to [this Google Drive folder](https://drive.google.com/drive/folders/1_Lsed7CVe53qv8opiHIdpJsKfLHoPHBn?usp=sharing) for your materials.
 
+There is an additional visualization tutorial [here](https://drive.google.com/open?id=1PZ2zw9PS1HA80Cnt7GLWFXpLsC4RjpX8).
+
 Please navigate using the sidebar.
